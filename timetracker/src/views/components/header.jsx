@@ -1,0 +1,1 @@
+// this is for a static navbar at the top of the screen
